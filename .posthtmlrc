@@ -7,12 +7,156 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Mayor Eric Adams appointed Kathleen Corradi as the new city director of rodent mitigation on Wednesday. Corradi, dubbed the “rat czar,” aims to reduce a rapidly increasing rat population in New York City."
+          },
+          {
+            "type": "text",
+            "value": "While rat prevalence is a common asthmatic trigger, the “rat czar” is not tasked with addressing asthma directly. Community advocates said similar attention to other asthmatic triggers like poor indoor and outdoor air quality could help lower asthma rates in West Harlem, a neighborhood with historically high rates of asthma."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "rats.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Lisa Jones, a community health advocate, said the question remaining in New York City’s efforts to combat rats is how to hold landlords accountable for not properly disposing of garbage that may lead to rat congregations."
+          },
+          {
+            "type": "text",
+            "value": "Rats can come from holes in the tree beds on sidewalks and rummage through garbage that is not properly disposed of."
+          },
+          {
+            "type": "text",
+            "value": "“Who’s responsible for the tree outside and who’s responsible for the fact that the garbage is being overrun?” Jones said."
+          },
+          {
+            "type": "text",
+            "value": "Maureen George, professor of nursing at Columbia Medical Center, said that higher rates of asthma occur when patients “have more barriers to accessing quality care” and are exposed to “more environmental triggers that are coming from poor indoor and outdoor air quality.”"
+          },
+          {
+            "type": "text",
+            "value": "While other areas of the city, like Lower Manhattan, may also have high outdoor air pollution rates compared to West Harlem, higher asthma rates also correlate to indoor conditions such as mold exposure, presence of cockroaches, and lack of good ventilation within homes."
+          },
+          {
+            "type": "text",
+            "value": "“If you’re considering the asthma disparities that we have uptown, we really have to consider all those factors,” Micaela Martinez, Director of Environmental Health at WE ACT for Environmental Justice, said. “We don’t necessarily have great insulation, great windows, to insulate or protect residents from that outdoor air pollution getting into their homes.”"
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "asthma_rates.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "WE ACT is an organization dedicated to addressing negative environmental outcomes in communities of color. Among other initiatives, WE ACT launched a campaign in 1997 pushing the MTA to invest in clean-fuel buses."
+          },
+          {
+            "type": "text",
+            "value": "WE ACT argued that the disproportionate number of bus depots located in northern Manhattan was a contributing factor to the neighborhood’s high rates of respiratory problems like asthma. The campaign helped catalyze the MTA’s investments in the early 2000s in more environmentally-friendly hybrid electric vehicles."
+          },
+          {
+            "type": "text",
+            "value": "Fine particulate matter has a diameter of 2.5 microns or smaller and is primarily caused by fossil fuel combustion. The New York City Department of Health and Mental Hygiene’s Bureau of Environmental Surveillance and Policy found that the annual average outdoor pollution level in both Morningside Heights-Central Harlem and East Harlem was 6.8 micrograms per cubic meter, below the Environmental Protection Agency’s annual standard of 12 micrograms per cubic meter."
+          },
+          {
+            "type": "text",
+            "value": "Companies such as <a href=\"https://www2.purpleair.com/\">PurpleAir</a> sell relatively low-cost air quality sensors to enable residents to collect their own air pollution data. The data collected by these sensors is publicly available online."
+          },
+          {
+            "type": "text",
+            "value": "Using data from the past three days for sensors across West and East Harlem, Spectator found that the annual average reported by the city does not match on-the-ground measurements. The lowest pollution levels measured in the period of April 14 to 16 were all higher than the annual average of 6.8 micrograms per cubic meter. The average values are also all higher than the EPA’s 24 hour PM2.5 standard of 35 micrograms/cubic meter. A PurpleAir sensor in Manhattanville, for example, measured values greater than the EPA’s 24-hour standard 81 percent of the time in the past three days. Sensors in East Harlem and Hamilton Heights were over the 24-hour-standard 76 percent and 60 percent of the time, respectively. While these three sensors are not meant to be representative of the entire neighborhood, they show that the data provided by the city relating to air quality is not telling a complete story."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "sensor_data.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Asthma is typically non-fatal and medications like inhalers allow many patients to not be largely impacted by their condition. But when patients lack access to these medications or underuse them, their asthma can worsen."
+          },
+          {
+            "type": "text",
+            "value": "Inhalers are notoriously underused by asthma patients because “people don’t like to take a medicine when they’re feeling fine,” George said."
+          },
+          {
+            "type": "text",
+            "value": "Early data suggests that people with more severe asthma are more likely to develop post-COVID conditions and those with moderate or severe asthma are more likely to have a more severe course of COVID-19."
+          },
+          {
+            "type": "text",
+            "value": "George said t<a href=\"https://www.columbiaspectator.com/city-news/2023/04/03/cuimc-begins-surveying-cancer-patients-about-telehealth/\">he rise in telehealth use during pandemic</a> means that asthmatic patients who opt to have virtual appointments may not be properly assessed."
+          },
+          {
+            "type": "text",
+            "value": "“Can you really tell how well your patient is or is not?” George said."
+          },
+          {
+            "type": "text",
+            "value": "WE ACT has been pushing for new initiatives to address asthma triggers such as indoor living conditions. Some indoor conditions in tenants homes like pests and mold can only be addressed by landlords of the building, Martinez said."
+          },
+          {
+            "type": "text",
+            "value": "“New York landlords are notorious for not fixing damages in homes, especially when there are low-income families and families that they’re trying to get out so they can put homes up for market rate,” Martinez said."
+          },
+          {
+            "type": "text",
+            "value": "WE ACT wants to have landlords and the state and federal government fund the replacement of gas stoves with induction stoves in low-income residents’ homes. The nitrogen dioxide produced by gas stoves is a known asthma trigger."
+          },
+          {
+            "type": "text",
+            "value": "The U.S. EPA has no standards for nitrogen dioxide levels in indoor air despite acknowledging that “indoor levels often exceed outdoor levels” on their website."
+          },
+          {
+            "type": "text",
+            "value": "New York City Community Health Profiles reported 18.2 parts per billion nitrogen dioxide concentration for the 2021 annual average in Central Harlem and Morningside Heights. However, in at least one household during a Columbia and WE ACT pilot study, the nitrogen dioxide concentration measured in October 2021 was at least 54 ppb––triple the annual average––for more than half the time the air was monitored."
+          },
+          {
+            "type": "text",
+            "value": "In that study, titled “Out of Gas, In with Justice,” WE ACT partnered with Darby Jack, associate professor of environmental health sciences at the Columbia University Mailman School of Public Health, to replace gas stoves with induction stoves in about 20 affordable housing households in Buffalo and the Bronx."
+          },
+          {
+            "type": "text",
+            "value": "They found that cooking with gas stoves produced an average NO2 concentration of 197 ppb, double the EPA’s 100 ppb standard for outdoor air. Over a 10-month period, households using induction stoves had a 35 percent reduction in daily NO2 concentrations compared to those using gas stoves, according to the report."
+          },
+          {
+            "type": "text",
+            "value": "“It's always cheaper to keep what you have in place, but the induction stoves will be saving on people's bills over time and having that public health impact,” Martinez said."
+          },
+          {
+            "type": "text",
+            "value": "Changing gas stoves for induction stoves incurs three main costs: cost for the new stove, cost of electrical work on the kitchen to match the stove’s build, and purchasing metal pots and pans that are compatible with the stove."
+          },
+          {
+            "type": "text",
+            "value": "“And so it’s all of these things in combination that play a huge role, … and hopefully we will see changes in terms of asthma over time,” Martinez said."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Rainier Harris can be contacted at </i><a href=\"mailto:rainier.harris@columbiaspectator.com\"><i>rainier.harris@columbiaspectator.com</i></a><i>. Follow him on Twitter </i><a href=\"https://twitter.com/harris_rainier\"><i>@harris_rainier</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Editor Adina Cazacu-De Luca can be contacted at </i><a href=\"mailto:adina.cazacu.de.luca@columbiaspectator.com\"><i>adina.cazacu.de.luca@columbiaspectator.com</i></a><i> or on Twitter </i><a href=\"https://twitter.com/adidanic\"><i>@adidanic</i></a><i>.</i>"
+          }
+        ],
+        "headline": "Mayor Adams appointed a ‘rat czar.’ West Harlem environmental advocates hope the city addresses other asthma triggers too",
+        "date": "April 18, 2023",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/Rainier-Harris/\">Rainier Harris</a>. Data Analysis by <a href=\"https://www.columbiaspectator.com/contributors/Adina-Cazacu/\">Adina Cazacu-De Luca</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/HFLQPKVFNBC73G6TGJJLX5C2RE.JPG",
+        "cover_caption": "Hannah Yanover / Staff Photographer",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1TULAROXaBuQLDT0jHiGHnsRvKsUpmDqPcBeAI_bUOC4/edit?usp=sharing"
       }
     }
   }
